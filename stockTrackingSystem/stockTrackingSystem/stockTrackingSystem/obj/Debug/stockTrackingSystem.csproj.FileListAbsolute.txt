@@ -1,0 +1,928 @@
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\ERP_Software_Database\asp.net_examples\TrackingSystem\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Identity.Client.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Buffers.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Collections.Immutable.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Memory.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Identity.Client.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Buffers.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Collections.Immutable.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Memory.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\MySql.Data.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ZstdNet.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\BouncyCastle.Crypto.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\MySql.Data.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\EntityFramework.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Google.Protobuf.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Data.SqlClient.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Logging.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Identity.Client.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\MySql.Data.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Buffers.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Collections.Immutable.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Memory.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\ZstdNet.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\BouncyCastle.Crypto.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\EntityFramework.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Google.Protobuf.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Google.Protobuf.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Data.SqlClient.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Logging.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.Identity.Client.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\MySql.Data.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Buffers.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Collections.Immutable.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Memory.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem - Copy\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.Mvc.dll
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.xml
+C:\Users\aybuke\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.Mvc.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Identity.Client.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\MySql.Data.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.Mvc.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Buffers.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Collections.Immutable.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Memory.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ZstdNet.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\BouncyCastle.Crypto.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Google.Protobuf.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.Identity.Client.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\MySql.Data.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\PagedList.Mvc.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Buffers.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Collections.Immutable.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Memory.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Identity.Client.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\MySql.Data.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.Mvc.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Buffers.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Collections.Immutable.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Memory.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ZstdNet.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\BouncyCastle.Crypto.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Identity.Client.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\MySql.Data.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.Mvc.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Buffers.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Collections.Immutable.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Memory.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bilgisayar\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csprojAssemblyReference.cache
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.pdb
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.dll.config
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\stockTrackingSystem.pdb
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.exe
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.exe.config
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csc.rsp
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.exe
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.exe.config
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\csi.rsp
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Console.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.exe.config
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\vbc.rsp
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Identity.Client.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\MySql.Data.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.Mvc.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Buffers.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Collections.Immutable.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Memory.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ZstdNet.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\BouncyCastle.Crypto.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.pdb
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Google.Protobuf.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Data.SqlClient.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.Identity.Client.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\MySql.Data.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\PagedList.Mvc.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Buffers.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Collections.Immutable.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Memory.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kaany\Desktop\stockTrackingSystem - Kopya\stockTrackingSystem\obj\Debug\stockTrackingSystem.csproj.CopyComplete
